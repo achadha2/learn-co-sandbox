@@ -1,0 +1,14 @@
+#what if I want to do something a certain number of times
+
+#say hello 5 times
+
+5.times do
+  puts "hello"
+end
+
+number = 5
+while 
+  number < 10 do
+  puts "hello"
+  number += 1
+end

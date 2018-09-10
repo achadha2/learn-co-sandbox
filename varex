@@ -1,0 +1,21 @@
+#Create a variable called name and give it a value
+
+#Create a variable called honetown and give it a value
+
+#Create a variable called age and give it a value
+
+#Create a method (compute_months) that takes these three variables 
+
+# "I'm howard, I'm from Columbus and I've been alive for __ Months"
+
+name = "Andy"
+hometown = "Queens"
+Age = 26
+Age_in_months = Age*12
+
+
+def compute_months (name, hometown, age)
+  puts "I'm #{name}, I'm from #{hometown} and I've been alive for #{Age_in_months} months!"
+end
+
+compute_months(name, hometown, Age_in_months)

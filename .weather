@@ -1,0 +1,18 @@
+require "pry"
+def what_should_I_wear(weather)
+
+if weather == "raining"
+  "raincoat"
+elsif weather == "sunny"
+  "sunscreen"
+elsif weather == "cloudy"
+  "sweatshirt"
+else 
+  "wear anything"
+  end
+  
+end
+
+
+binding.pry
+puts goodbye

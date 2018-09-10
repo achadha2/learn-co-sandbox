@@ -1,0 +1,10 @@
+age = 22
+if age >=21#condition
+  puts "allowed in the club" #if condition is true
+  elsif age < 23
+  puts "No way! You can't even vote"
+  else 
+  puts "Come back in a few years"
+
+end
+

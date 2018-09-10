@@ -1,0 +1,11 @@
+# Methods return values and conditions
+
+greeting = ["haha", "fun", 7]
+
+def greet(g)
+  2.times do
+  puts g
+  end
+end
+
+greet(greeting)
